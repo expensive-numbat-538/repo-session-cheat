@@ -1,0 +1,22 @@
+{
+  "name": "repo-session-toolkit",
+  "displayName": "R.E.P.O. Session Toolkit",
+  "programType": "session-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Crew planning",
+    "Equipment notes",
+    "Session records"
+  ],
+  "topics": [
+    "repo-session-toolkit",
+    "repo-tools",
+    "repo-menu",
+    "repo-settings",
+    "repo-configs",
+    "repo-crew-planning",
+    "repo-equipment-notes"
+  ]
+}
