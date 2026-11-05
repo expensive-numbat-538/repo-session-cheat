@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 R.E.P.O. Session Toolkit · Program documentation and download information.
-                                                                                                    
